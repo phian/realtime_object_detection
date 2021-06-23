@@ -1,6 +1,6 @@
 # realtime_object_detection
 
-A new Flutter project.
+A realtime object detection project with tflite and camera package.
 
 ## Getting Started
 
